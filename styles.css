@@ -2,7 +2,10 @@ body{
 	background-color: rgb(204, 204, 204);
 	
 }
-.skill{
+h1.skill{
+	text-align:center;
+}
+h2.skill{
 	text-align:center;
 }
 ul{
