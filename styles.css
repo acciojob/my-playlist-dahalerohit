@@ -1,29 +1,23 @@
 body{
 	background-color: rgb(204, 204, 204);
-	 font-family: Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
-h1{
+.skill{
 	text-align:center;
-}
-h2{
-	text-align:center;
-}
-	
-
 }
 ul{
-	list-style-type: none;
+	list-style-type:none;
 }
 .list{
-	text-decoration-line: none;
+	text-decoration-line:none;
 }
 .player_one{
 	background-color: rgb(255,255,255);
 	padding: 20px; 
-    border-radius: 40px;
+	border-radius: 40px;
 }
 .player_two{
 	background-color: rgb(255,255,255);
 	padding: 20px; 
-    border-radius: 40px;
+	border-radius: 40px;
 }
